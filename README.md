@@ -7,7 +7,7 @@
 
 游玩此游戏
 
-<a href="https://hengduan.dpdns.org/game/NeilsSacrifice/index" target="_blank">在我们的官方网站游玩</a>
+<a href="https://hengduan.dpdns.org/game/NeilsSacrifice/index" target="_blank">在我们的网站游玩</a>
 <a href="https://ccw.site/s/Vml6z" target="_blank">前往共创世界游玩</a>
 
 下载此游戏
