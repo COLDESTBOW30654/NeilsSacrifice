@@ -1,5 +1,5 @@
 # NeilsSacrifice 尼尔的祭祀
-基于TurboWarp制作的多结局，2d平面解密游戏
+#### 基于TurboWarp制作的多结局，2d平面解密游戏
 
 作者：白鹿原嚒   图画：青羚
 
@@ -12,5 +12,8 @@
 
 下载此游戏
 
-<a href="https://github.com/COLDESTBOW30654/NeilsSacrifice/releases" target="_blank">github releases</a>
+<a href="https://github.com/COLDESTBOW30654/NeilsSacrifice/releases" target="_blank">Github releases</a>
 <a href="https://gitee.com/coldestbow30654/NeilsSacrifice/releases" target="_blank">Gitee releases</a>
+
+
+本项目的AndroidAPP已开源至 <a href="https://github.com/COLDESTBOW30654/NeilsSacrifice-Android" target="_blank">Github</a> | <a href="https://gitee.com/coldestbow30654/NeilsSacrifice-Android" target="_blank">Gitee</a>
