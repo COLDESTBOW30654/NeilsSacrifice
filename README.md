@@ -16,4 +16,4 @@
 <a href="https://gitee.com/coldestbow30654/NeilsSacrifice/releases" target="_blank">Gitee releases</a>
 
 
-本项目的AndroidAPP已开源至 <a href="https://github.com/COLDESTBOW30654/NeilsSacrifice-Android" target="_blank">Github</a> | <a href="https://gitee.com/coldestbow30654/NeilsSacrifice-Android" target="_blank">Gitee</a>
+本项目的AndroidAPP已开源至 <a href="https://github.com/COLDESTBOW30654/NeilsSacrifice-onAndroid" target="_blank">Github</a> | <a href="https://gitee.com/coldestbow30654/NeilsSacrifice-onAndroid" target="_blank">Gitee</a>
